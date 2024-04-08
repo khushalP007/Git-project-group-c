@@ -6,7 +6,7 @@ public class AvgNumber {
 	public void avgNumber() {
 		 Scanner scanner = new Scanner(System.in);
 
-	        // Prompt the user to enter five numbers
+	       
 	        System.out.println("Enter first number: ");
 	        double num1 = scanner.nextDouble();
 
