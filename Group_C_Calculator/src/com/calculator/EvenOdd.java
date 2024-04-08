@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class EvenOdd {
 	   public void evenOdd() {
-	        // Prompt the user to enter a number
+	       
 		   Scanner scanner = new Scanner(System.in);
 	        System.out.print("Enter a number 10 ");
 	        int num = scanner.nextInt();
