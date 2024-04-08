@@ -14,20 +14,18 @@ public class SquareOp implements myinterface {
 
 	@Override
 	public void division(int a, int b) {
-		// TODO Auto-generated method stub
-
+		
 	}
 
 	@Override
 	public void modulo(int a) {
-		// TODO Auto-generated method stub
+	
 
 	}
 
 	@Override
 	public void sqaure(int a, int b) {
-		// TODO Auto-generated method stub
-
+		
 	}
 
 }
